@@ -1,0 +1,110 @@
+Sweet
+  Brown Sugar
+    Molasses
+    Maple Syrup
+    Caramelized
+    Honey
+  Vanilla
+  Vanillin
+  Overall Sweet
+  Sweet Aromatics
+Floral
+  Black Tea
+  Floral
+    Chamomille
+    Rose
+    Jasmine
+Fruity
+  Berry
+    Blackberry
+    Raspberry
+    Blueberry
+    Strawberry
+  Dried Fruit
+    Raisin
+    Prune
+  Other Fruit
+    Coconut
+    Cherry
+    Pomegranate
+    Pineapple
+    Grape
+    Apple
+    Peach
+    Pear
+  Citrus Fruit
+    Grapefruit
+    Orange
+    Lemon
+    Lime
+Sour/Fermented
+  Sour
+    Sour Aromatics
+    Acetic Acid
+    Butyric Acid
+    Isovaleric Acid
+    Citric Acid
+    Malic Acid
+  Alcohol/Fermented
+    Winey
+    Whiskey
+    Fermented
+    Overripe
+Green/Vegetative
+  Olive Oil
+  Raw
+  Green/Vegetative
+    Under-Ripe
+    Peapod
+    Fresh
+    Dark Green
+    Vegetative
+    Hay-like
+    Herb-like
+  Beany
+Other
+  Chemical
+    Rubber
+    Skunny
+    Petroleum
+    Medicinal
+    Salty
+    Bitter
+  Papery/Musty
+    Phenolic
+    Meaty Brothy
+    Animalic
+    Musty/Earthy
+    Musty/Dusy
+    Moldy/Damp
+    Woody
+    Papery
+    Cardboard
+    Stale
+Roasted
+  Cereal
+    Malt
+    Grain
+  Burnt
+    Brown, Roast
+    Smoky
+    Ashy
+    Acrid
+  Tobacco
+  Pipe Tobacco
+Spices
+  Brown Spice
+    Clove
+    Cinnamon
+    Nutmeg
+    Anise
+  Pepper
+  Pungent
+Nutty/Cocoa
+  Nutty
+    Almond
+    Hazelnut
+    Peanuts
+  Cocoa
+    Dark Chocolate
+    Chocolate

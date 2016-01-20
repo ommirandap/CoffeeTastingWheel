@@ -1,0 +1,110 @@
+Dulce
+  Azucar rubia
+    Melaza
+    Jarabe de arce
+    Caramelizado
+    Miel
+  Vainilla
+  Vanillin
+  Dulce general
+  Aromas dulces
+Floral
+  Te negro
+  Floral
+    Manzanilla
+    Rosa
+    Jazmín
+Frutal
+  Berries/Bayas
+    Mora
+    Frambuesa
+    Arándano
+    Frutilla
+  Frutos deshidratados
+    Pasa
+    Ciruela pasa
+  Otras frutas
+    Coco
+    Guinda
+    Granda
+    Piña
+    Uva
+    Manzana
+    Durazno
+    Pera
+  Frutas cítricas
+    Pomelo
+    Naranja
+    Limón
+    Lima
+Agrio/Fermentado
+  Agrio
+    Aroma agrio
+    Ácido Acético
+    Ácido Butírico
+    Ácido Isovalérico
+    Ácido Cítrico
+    Ácido Malico
+  Alcohol/Fermentado
+    Vino
+    Whiskey
+    Fermentado
+    Muy maduro
+Verde/Vegetativo
+  Aceite de Oliva
+  Crudo
+  Verde/Vegetativo
+    Inmaduro
+    Arvejas
+    Fresco
+    Verde oscuro
+    Vegetativo
+    Heno
+    Hierba
+  Frijol
+Otros
+  Quimicos
+    Caucho
+    Contaminado
+    Petróleo
+    Medicinal
+    Salado
+    Amargo
+  A Papel/Rancio
+    Fenólico
+    Caldo de carno
+    Animal
+    Rancio/A tierra
+    Rancio/Polvoriento
+    Mohoso/Húmedo
+    Amaderado
+    A papel
+    Cartón
+    Pasado/Viejo
+Tostado
+  Cereal
+    Malta
+    Trigo
+  Quemado
+    Marrón, Tostado
+    Ahumado
+    A ceniza
+    Agrio
+  Tabaco
+  Tabaco de pipa
+Condimento
+  Condimentos cafés
+    Clavo de olor
+    Canela
+    Nuez moscada
+    Anís
+  Pimienta
+  Picante
+Nuez/Cacao
+  Nuez
+    Almendra
+    Avellana
+    Maní
+  Cacao
+    Chocolate amargo
+    Chocolate
